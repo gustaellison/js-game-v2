@@ -1,0 +1,12 @@
+div.playercards > div {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr ;
+    margin: auto;
+}
+
+div {
+    border: 1px solid black;
+    height: 200px;
+    width: 500px;
+    display: inline-flex;
+}
